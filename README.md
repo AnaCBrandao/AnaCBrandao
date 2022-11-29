@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Ana Brandão.
 
 - 🔭 Desenvolvendo projetos front-end
-- 🌱 Estudando Typescript
+- 🌱 Estudando Typescript e React Native
 - 📫 Contacte-me pelo email: anacarolini633@gmail.com
 - 😄 Pronomes: ela/dela
 
