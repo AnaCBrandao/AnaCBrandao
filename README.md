@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Ana Brandão.
 
-- 🔭 Developing React projects
+- 🔭 Developing front-end & React projects
 - 🌱 Studying Typescript and React Native
 - 📫 Contact me by email: anacarolini633@gmail.com
 - 😄 Pronouns: she/her
