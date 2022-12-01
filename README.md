@@ -1,9 +1,9 @@
 ### Oii! Eu sou a Ana Brandão.
 
-- 🔭 Desenvolvendo projetos front-end
-- 🌱 Estudando Typescript e React Native
-- 📫 Contacte-me pelo email: anacarolini633@gmail.com
-- 😄 Pronomes: ela/dela
+- 🔭 Developing React projects
+- 🌱 Studying Typescript and React Native
+- 📫 Contact me by email: anacarolini633@gmail.com
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/AnaCBrandao">
@@ -19,7 +19,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ana-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/767910421025521665/1044765402498076742/-a9o2l8.jpg">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/767910421025521665/1044765402498076742/-a9o2l8.jpg">
 </div>
   
   ##
