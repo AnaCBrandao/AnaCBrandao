@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Ana Brandão.
 
-- 🔭 Developing front-end & React projects
-- 🌱 Studying Angular
+- 🔭 Developing fullstack projects
+- 🌱 Studying Java
 - 📫 Contact me by email: anacarolini633@gmail.com
 - 😄 Pronouns: she/her
 
